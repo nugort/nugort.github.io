@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #5a5a5a;
+    background-color: #fff;
+    text-rendering: optimizeLegibility;
+    /* font size mặc định là 16px */
+}
+
+h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.list{
+    margin-left: 8%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.list li{
+    list-style: none;
+    width: 30%;
+    display: inline-block;
+}
+
+.avt{
+    width: 100%;
+    border-radius: 7px;
+}
+
+figcaption{
+    text-align: center;
+    color: #5a5a5a;
+}
+
+li:hover{
+    transform: scale(1.01);
+}
+
+/* ------------------------------------------------------------------------------------ */
+/* ------------------ */
+
+.dscp-box{
+    width: 70%;
+    float: left;
+    margin: 10px;
+    border-right: 0.5px solid #5a5a5a;
+}
+
+.dscp-box img{
+    display: flex;
+    width: 30%;
+    border-radius: 7px;
+}
+
+.dscp-box .dscp{
+    width: 70%;
+    margin-top: 10px;
+}
+
+.goback-button{
+    display: block;
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    padding: 5px;
+    color: #5a5a5a;
+}
+
+.goback-button:hover{
+    color: black;
+}
+
