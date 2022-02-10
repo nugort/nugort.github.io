@@ -9,7 +9,7 @@ public class main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Choose your option");
+        System.out.println("Choose   your option");
         System.out.println("7: BMI value");
         System.out.println("0: Square basic calc");
         System.out.println("1: Triangle basic calc");
@@ -23,14 +23,14 @@ public class main {
             double weigh = scan.nextDouble();
             System.out.println(" Plz enter your height (m)");
             double height = scan.nextDouble();
-            System.out.println("Your BMI value is " + BMI_values.BMI_value(weigh, height));
-            if (BMI_values.BMI_value(weigh, height) < 18.5) {
+            System.out.println("Your BMI value is " + BMI_values.BMI_value_double(weigh, height));
+            if (BMI_values.BMI_value_double(weigh, height) < 18.5) {
                 System.out.println("You're underweight !");
-            } else if (BMI_values.BMI_value(weigh, height) >= 18.5 || BMI_values.BMI_value(weigh, height) < 24.9) {
+            } else if (BMI_values.BMI_value_double(weigh, height) >= 18.5 || BMI_values.BMI_value_double(weigh, height) < 24.9) {
                 System.out.println("You're normal");
-            } else if (BMI_values.BMI_value(weigh, height) >= 25 || BMI_values.BMI_value(weigh, height) < 29.9) {
+            } else if (BMI_values.BMI_value_double(weigh, height) >= 25 || BMI_values.BMI_value_double(weigh, height) < 29.9) {
                 System.out.println("You're overweight");
-            } else if (BMI_values.BMI_value(weigh, height) >= 30 || BMI_values.BMI_value(weigh, height) < 34.9) {
+            } else if (BMI_values.BMI_value_double(weigh, height) >= 30 || BMI_values.BMI_value_double(weigh, height) < 34.9) {
                 System.out.println("You're obese");
             } else {
                 System.out.println("You're extremely obese");
@@ -59,7 +59,7 @@ public class main {
             System.out.println("Your circle perimeter is: " + circle.perimeter(radius));
 
         } else {
-            System.out.println("Rll! - Just 3.1.0.7 or exit my friend 💔");
+            System.out.println("Rll! - Just 3.1.0.7 or exit, my friend 💔");
         }
     }
 }
