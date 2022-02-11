@@ -26,11 +26,11 @@ public class main {
             System.out.println("Your BMI value is " + BMI_values.BMI_value_double(weigh, height));
             if (BMI_values.BMI_value_double(weigh, height) < 18.5) {
                 System.out.println("You're underweight !");
-            } else if (BMI_values.BMI_value_double(weigh, height) >= 18.5 || BMI_values.BMI_value_double(weigh, height) < 24.9) {
+            } else if (BMI_values.BMI_value_double(weigh, height) >= 18.5 && BMI_values.BMI_value_double(weigh, height) < 24.9) {
                 System.out.println("You're normal");
-            } else if (BMI_values.BMI_value_double(weigh, height) >= 25 || BMI_values.BMI_value_double(weigh, height) < 29.9) {
+            } else if (BMI_values.BMI_value_double(weigh, height) >= 25 && BMI_values.BMI_value_double(weigh, height) < 29.9) {
                 System.out.println("You're overweight");
-            } else if (BMI_values.BMI_value_double(weigh, height) >= 30 || BMI_values.BMI_value_double(weigh, height) < 34.9) {
+            } else if (BMI_values.BMI_value_double(weigh, height) >= 30 && BMI_values.BMI_value_double(weigh, height) < 34.9) {
                 System.out.println("You're obese");
             } else {
                 System.out.println("You're extremely obese");
