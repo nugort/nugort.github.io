@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cea6c455-42a3-4849-bbe7-10ffa9b100b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205185114.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205214700.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205214722.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205214733.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205215032.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205215429.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205215548.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205215635.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205215902.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205222337.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205223031.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205223805.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205223822.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205225243.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220205225342.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/index_20220206025502.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/note_20220205215122.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/note_20220205215150.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/note_20220206025506.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205215019.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222332.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222427.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222450.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222456.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222509.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222528.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222536.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222707.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222749.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205222941.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223002.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223016.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223028.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223054.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223128.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223132.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223238.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223315.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223331.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223615.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223638.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220205223712.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206000833.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206000835.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206000836.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206000837.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206001043.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206001055.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206011750.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206020412.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206020543.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206020552.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206153139.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206184615.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/style_20220206202146.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220206232523.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220206232800.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220206233023.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220206234800.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220206235400.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220206235544.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220206235600.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207000743.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207001013.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207001155.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207001211.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207001226.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207001300.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207002557.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207002714.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207002758.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207002811.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207003014.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207003026.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207003055.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207003100.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207003111.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207003710.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207003957.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207004019.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207004146.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207004157.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207004315.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207004329.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207034912.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207034920.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207035106.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207035107.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207040803.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207040810.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207040815.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207040817.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207040908.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207040937.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207041003.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207041031.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207041048.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207041225.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042336.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042405.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042432.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042518.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042731.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042825.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042827.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042828.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042829.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042841.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207042904.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043037.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043123.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043258.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043259.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043309.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043339.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043357.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043514.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043602.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207043946.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044127.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044137.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044225.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044404.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044450.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044504.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044512.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044520.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044527.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044535.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044619.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044709.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044802.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044814.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044828.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044832.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044853.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207044939.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045153.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045320.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045341.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045346.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045415.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045424.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045643.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045658.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045704.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045934.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207045938.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207050231.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207050238.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207050303.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207050307.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207050345.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207050346.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207050920.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207050923.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051016.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051335.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051416.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051448.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051648.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051735.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051751.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051755.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051806.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207051809.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220207052046.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208012754.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208012826.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208012841.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013007.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013012.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013117.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013127.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013212.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013228.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013236.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013258.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013305.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013319.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013329.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013427.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013503.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013537.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013538.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208013550.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014300.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014323.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014324.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014330.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014400.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014511.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014523.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014743.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014752.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208014849.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208015006.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208015021.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208015037.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208015106.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208015114.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208015258.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208021021.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208021025.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208022526.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208022857.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208022935.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208023003.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208023021.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208023049.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208023303.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208023938.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024028.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024200.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024201.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024202.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024203.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024204.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024441.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024452.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024455.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024635.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024643.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024707.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024844.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024908.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208024915.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025012.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025025.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025057.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025103.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025139.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025153.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025158.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025225.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025256.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025322.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025328.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025424.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025558.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025606.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208025907.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208030431.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208030745.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208030751.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208030753.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208030801.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208030803.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208030806.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208031558.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208031735.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032022.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032054.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032151.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032205.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032359.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032524.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032557.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032604.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032705.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032747.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032836.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032855.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032917.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208032944.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208033027.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208033211.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208033241.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208033259.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208033306.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208033336.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208033406.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208033429.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035300.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035323.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035510.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035600.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035612.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035618.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035634.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035727.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035737.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035813.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035823.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208035844.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208040106.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208040114.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208040213.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208040250.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208040511.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208040530.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208040531.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208041524.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208041628.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042426.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042431.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042454.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042511.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042604.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042647.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042650.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042743.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042758.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042840.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208042950.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043026.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043056.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043158.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043213.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043226.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043252.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043333.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043409.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043440.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043509.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043627.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043653.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043707.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043723.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043745.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043748.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043803.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043823.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208043944.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044000.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044027.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044044.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044057.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044121.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044228.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044330.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044437.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044456.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044510.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044521.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044524.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044527.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044531.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044533.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044534.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044540.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044711.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044754.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044807.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044815.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044822.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208044848.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208052051.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208052154.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208052215.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208052304.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208052336.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208052338.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208052347.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208052611.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208052858.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208053147.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208053231.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208053540.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208053545.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208053550.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208053555.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208053603.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208053614.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208053617.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054200.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054257.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054435.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054526.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054536.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054557.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054631.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054648.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054652.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054728.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054747.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054805.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054859.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208054945.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055036.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055102.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055114.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055125.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055132.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055141.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055228.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055236.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055321.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055512.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055538.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/assets/css/styles_20220208055544.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220206184511.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220206232611.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220206232708.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220206232807.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207000746.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207001446.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207001604.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207001736.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207001924.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207001935.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207002343.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207005433.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207005447.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207005539.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207005547.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207005625.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207005805.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207005849.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207032709.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207033945.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207034840.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207042953.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207161359.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220207225356.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208012007.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208023555.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208023646.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208023729.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208030723.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208031325.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208031328.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208031403.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208033857.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208033925.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208033957.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208034054.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208034847.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208034908.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208035002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208040329.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208041602.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208041613.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208041654.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208041936.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208042004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208042026.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208042104.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208042128.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208042256.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208042338.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208042436.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208043832.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208050944.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208051153.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208051407.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208051433.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208052134.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208052530.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208052815.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208054136.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208054213.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220208054949.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/.history/the-band/index_20220209192037.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/learning/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/learning/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/learning/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/the-band/assets/css/fonts/fonts-awsome/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/the-band/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/the-band/assets/img/band-members/bandmember.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/the-band/assets/img/slider-1/chicago.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/the-band/assets/img/tour-places/newyork.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/the-band/assets/img/tour-places/paris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/the-band/assets/img/tour-places/sanfran.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/the-band/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../f8/the-band/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.history/java/fisrt-day/src/main_20220209191034.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.history/java/fisrt-day/src/main_20220209191629.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.history/java/fisrt-day/src/main_20220209192006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.history/java/fisrt-day/src/main_20220209194820.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.history/java/fisrt-day/src/main_20220209195140.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.history/java/fisrt-day/src/main_20220209195629.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.history/java/fisrt-day/src/main_20220209195657.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/another_second_day.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/another_second_day/Exercises/Exercise_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/another_second_day/Exercises/Exercise_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/another_second_day/Exercises/Exercise_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/another_second_day/Exercises/Four_dot_0_circus_menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/another_second_day/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Exercise_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Exercise_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Exercise_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises/Four_dot_0_circus_menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/fisrt-day.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/out/production/fisrt-day/basic_geometries_bmi_calc/BMI_values.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/out/production/fisrt-day/basic_geometries_bmi_calc/circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/out/production/fisrt-day/basic_geometries_bmi_calc/square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/out/production/fisrt-day/basic_geometries_bmi_calc/triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/out/production/fisrt-day/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/basic_geometries_bmi_calc/BMI_values.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/basic_geometries_bmi_calc/BMI_values.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/basic_geometries_bmi_calc/circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/basic_geometries_bmi_calc/circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/basic_geometries_bmi_calc/square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/basic_geometries_bmi_calc/square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/basic_geometries_bmi_calc/triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/basic_geometries_bmi_calc/triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fisrt-day/src/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/out/production/second-day/basic_calc/basic_calculations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/out/production/second-day/basic_calc/bmi_calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/out/production/second-day/basic_calc/convert_temperature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/out/production/second-day/basic_calc/hypotenuse_calc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/out/production/second-day/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/second-day.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/src/basic_calc/basic_calculations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/src/basic_calc/bmi_calc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/src/basic_calc/convert_temperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/src/basic_calc/hypotenuse_calc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second-day/src/main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="257CsjftKJbQzrYjrUlqtQwj2V4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Exercises" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="another_second_day" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cea6c455-42a3-4849-bbe7-10ffa9b100b6" name="Changes" comment="" />
+      <created>1644868950510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644868950510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
