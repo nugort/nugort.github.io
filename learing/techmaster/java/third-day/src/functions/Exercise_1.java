@@ -12,6 +12,5 @@ public class Exercise_1 {
         }
         System.out.println("Appearance of " + character_e +
                 " in " + default_string + ": " + count);
-        System.out.println();
     }
 }
