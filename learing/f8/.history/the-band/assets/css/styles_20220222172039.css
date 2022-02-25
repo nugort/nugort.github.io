@@ -379,10 +379,6 @@ Chiếc web này gồm
     justify-content: center;
 }
 
-.modal-header {
-    background-color: #009688;
-}
-
 .modal-container {
     background: #FFF;
     width: 900px;
