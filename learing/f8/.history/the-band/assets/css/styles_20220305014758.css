@@ -133,10 +133,6 @@ Chiếc web này gồm
     margin-top: 16px;
 }
 
-.mt-32 {
-    margin-top: 32px;
-}
-
 /* Main */
 #main{
     /* overflow: hidden; lấp đầy khoảng trắng do phần tử con tạo ra */
@@ -213,32 +209,15 @@ Chiếc web này gồm
     background-color: #CCC;
 }
 
-#header .nav-bar {
-    display: none;
-}
-
-#header .nav-bar,
 #header .nav-search {
+    display: inline-block;
     float: right;
     line-height: var(--nav-heigh);
     padding: 0px 16px ;
 }
 
-#header .nav-search {
-    display: inline-block;
-}
-
-#header .nav-bar a,
 #header .nav-search a {
     color: #FFF;
-}
-
-#header .nav-bar:hover {
-    background-color: #CCC;
-}
-
-#header .nav-bar:hover a {
-    color: #000;
 }
 
 #header .nav-search:hover {
@@ -419,7 +398,6 @@ Chiếc web này gồm
     padding: 11px 16px;
     margin-top: 15px;
     border: 1px solid #000;
-    text-align: center;
 }
 
 .place-buy-btn:hover {
@@ -435,15 +413,6 @@ Chiếc web này gồm
 .contact-form-infor {
     font-size: 18px;
     line-height: 1.5;
-}
-
-.contact-form-infor a {
-    color: #0000EE;
-    opacity: 0.8;
-}
-
-.contact-form-infor a:hover {
-    opacity: 1;
 }
 
 .contact-form-infor i[class*="fa-solid"] {
@@ -612,6 +581,28 @@ display: inline-block;
     color: #00A8E8;
 }
 
+/* 
+    PC: >= 1024px
+    Tablet: >= 740px & < 1024px
+    Mobile: < 740px
+*/
+
+/* PC */
+@media (min-width: 1024) {
+    
+}
+
+/* Tablet */
+@media (max-width: 1023px) and (min-width: 741px) {
+    
+}
+
+/* Mobile */
+@media (max-width: 740px) {
+    #nav > li {
+        display: block;
+    }
+}
 @keyframes modalFadeIn {
     from {
         opacity: 0;

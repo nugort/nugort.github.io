@@ -437,15 +437,6 @@ Chiếc web này gồm
     line-height: 1.5;
 }
 
-.contact-form-infor a {
-    color: #0000EE;
-    opacity: 0.8;
-}
-
-.contact-form-infor a:hover {
-    opacity: 1;
-}
-
 .contact-form-infor i[class*="fa-solid"] {
 width: 30px;
 display: inline-block;

@@ -133,10 +133,6 @@ Chiếc web này gồm
     margin-top: 16px;
 }
 
-.mt-32 {
-    margin-top: 32px;
-}
-
 /* Main */
 #main{
     /* overflow: hidden; lấp đầy khoảng trắng do phần tử con tạo ra */
@@ -219,6 +215,7 @@ Chiếc web này gồm
 
 #header .nav-bar,
 #header .nav-search {
+    display: inline-block;
     float: right;
     line-height: var(--nav-heigh);
     padding: 0px 16px ;
@@ -419,7 +416,6 @@ Chiếc web này gồm
     padding: 11px 16px;
     margin-top: 15px;
     border: 1px solid #000;
-    text-align: center;
 }
 
 .place-buy-btn:hover {
@@ -435,15 +431,6 @@ Chiếc web này gồm
 .contact-form-infor {
     font-size: 18px;
     line-height: 1.5;
-}
-
-.contact-form-infor a {
-    color: #0000EE;
-    opacity: 0.8;
-}
-
-.contact-form-infor a:hover {
-    opacity: 1;
 }
 
 .contact-form-infor i[class*="fa-solid"] {
