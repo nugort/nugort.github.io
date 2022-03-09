@@ -249,11 +249,12 @@ Chiếc web này gồm
 
 /* Slider */
 #slider {
-    height: 1000px;
+    /* background-color: #CCC;
+    height: 1000px; */
     position: relative;
     margin-top: var(--nav-heigh);
     padding-top: 50%;
-    background: url('../img/slider-1/chicago.jpg') top center / cover, no-repeat;
+    background: url('/the-band/assets/img/slider-1/chicago.jpg') top center / cover, no-repeat;
     /* https://youtu.be/BmkVXoKoqVA?t=640 */
 }
 
@@ -280,7 +281,6 @@ Chiếc web này gồm
 
 #slider .slider-text-dsc{
     font-style: 15px;
-    text-shadow: 0 0 1px #000;
 }
 
 
